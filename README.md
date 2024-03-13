@@ -29,7 +29,7 @@ Estou familiarizado com as seguintes tecnologias e ferramentas:
 
 
 ## Contato 📬
-Fique à vontade para entrar em contato comigo através do [LinkedIn](url_do_perfil_do_LinkedIn) ou [e-mail](seu_email@example.com).
+Fique à vontade para entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/valber-oliveira-b32b83289/) ou [e-mail](valberoliveira789@gmail.com).
 
 ## Contribuições 💡
 Estou sempre aberto a contribuições e feedbacks em meus projetos. Sinta-se à vontade para abrir issues ou enviar pull requests.
